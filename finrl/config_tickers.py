@@ -37,6 +37,30 @@ DOW_30_TICKER = [
     "DOW",
 ]
 
+ROBERT_37_TICKER = [
+    "MSFT",
+    "GOOG",
+    "GOOGL",
+    "NVDA",
+    "META",
+    "TSM",
+    "ASML",
+    "SAP",
+    "RELX",
+    "ANET",
+    "BIDU",
+    "CHAIN,
+    "FIO",
+    "DEMAND",
+    "AVAX",
+    "UNIT",
+    "MU",
+    "IBM",
+    "DE",
+    "CRM",
+    "SPLK"
+]
+
 # Nasdaq 100 constituents at 2019/01
 NAS_100_TICKER = [
     "AMGN",
