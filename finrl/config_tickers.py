@@ -49,7 +49,7 @@ ROBERT_37_TICKER = [
     "RELX",
     "ANET",
     "BIDU",
-    "CHAIN,
+    "CHAIN",
     "FIO",
     "DEMAND",
     "AVAX",
