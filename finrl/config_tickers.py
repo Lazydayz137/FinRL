@@ -58,7 +58,7 @@ ROBERT_37_TICKER = [
     "IBM",
     "DE",
     "CRM",
-    "SPLK"
+    "SPLK",
 ]
 
 # Nasdaq 100 constituents at 2019/01
